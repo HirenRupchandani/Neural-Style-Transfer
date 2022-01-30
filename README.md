@@ -16,7 +16,7 @@
 
 - Neural style transfer is an optimization technique used to take two images — a content image and a style reference image (such as an artwork by a famous painter) — and blend them together so the output image looks like the content image, but **“painted”** in the style of the style reference image.
 
-<center><img  src="https://github.com/insaid2018/project-gallery/blob/main/AI/Neural%20Style%20Transfer/Images/styletransfer.jpg?raw=true" width=75%></center>
+<center><img  src="https://raw.githubusercontent.com/HirenRupchandani/Neural-Style-Transfer/main/Images/styletransfer.jpg" width=75%></center>
 
 - This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image.
 
@@ -43,11 +43,11 @@ The following libraries have been imported in the notebook:
 
 - We are taking the following images for content and style for our study:
 
-<center><img  src="https://github.com/insaid2018/project-gallery/blob/main/AI/Neural%20Style%20Transfer/Images/content%20and%20style%20image.jpeg?raw=true" width=75%></center>
+<center><img  src="https://raw.githubusercontent.com/HirenRupchandani/Neural-Style-Transfer/main/Images/content%20and%20style%20image.jpeg" width=75%></center>
 
 - We get the following output after applying fast style transfer:
 
-<center><img  src="https://github.com/insaid2018/project-gallery/blob/main/AI/Neural%20Style%20Transfer/Images/fast_st.png?raw=true" width=75%></center>
+<center><img  src="https://raw.githubusercontent.com/HirenRupchandani/Neural-Style-Transfer/main/Images/fast_st.png" width=75%></center>
 
 
 <a  id=Section4></a>
@@ -56,11 +56,11 @@ The following libraries have been imported in the notebook:
 
 - We are again taking the same content and style images:
 
-<center><img  src="https://github.com/insaid2018/project-gallery/blob/main/AI/Neural%20Style%20Transfer/Images/content%20and%20style%20image.jpeg?raw=true" width=75%></center>
+<center><img  src="https://raw.githubusercontent.com/HirenRupchandani/Neural-Style-Transfer/main/Images/content%20and%20style%20image.jpeg" width=75%></center>
 
 - We get the following output after applying manually optimizing the style transfer:
 
-<center><img  src="https://github.com/insaid2018/project-gallery/blob/main/AI/Neural%20Style%20Transfer/Images/stylized-image.png?raw=true" width=75%></center>
+<center><img  src="https://raw.githubusercontent.com/HirenRupchandani/Neural-Style-Transfer/main/Images/stylized-image.png" width=75%></center>
 
 <a id=Section5></a>
 

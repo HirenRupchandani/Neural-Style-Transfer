@@ -4,9 +4,13 @@
 ## **Table of Contents**
 
 **1.**  [**Introduction**](#Section1)
+
 **2.**  [**Imported Libraries**](#Section2)
+
 **3.**  [**Output from Fast Style Transfer**](#Section3)
+
 **4.**  [**Output from Manual Optimization**](#Section4)
+
 **5.**  [**Applications**](#Section5)
 
 <a id=Section1></a>
@@ -21,6 +25,8 @@
 - This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image.
 
 - These statistics are extracted from the images using a convolutional network.
+
+- The notebook can be found [**here**](https://jovian.ai/hirenrupchandani/neural-style-transfer) as well.
 
 <a  id=Section2></a>
 
